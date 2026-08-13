@@ -1,3 +1,5 @@
+> ⚠️ **Superseded** — this repository is archived. Development continues in [ClinicLedger](https://github.com/gaganjainse/ClinicLedger) (Clinic Ledger OS v2).
+
 # Clinic Ledger (क्लिनिक लेजर)
 
 An offline-first, voice-assisted clinic ledger and patient memory database designed specifically for clinic doctors in India. This application serves as an ironclad financial and medical audit trail, allowing doctors to manage patient histories, balance dues, and families hands-free using natural language spoken commands.
